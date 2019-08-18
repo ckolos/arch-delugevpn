@@ -13,3 +13,6 @@ notes.txt
 
 # ignore virtual env
 venv
+
+# ha ha
+config/openvpn/
